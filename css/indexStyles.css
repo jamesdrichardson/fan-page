@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(208, 166, 248);
+}
+
+h1, h3 {
+    color: whitesmoke;
+}
+
+h2 {
+    color: whitesmoke;
+    text-decoration: underline;
+}
+
+#main-header{
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+.quote-giver {
+    text-align: right;
+    width: 30%;
+}
